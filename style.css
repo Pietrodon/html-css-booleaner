@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+.pattern{
+    background-color: #00b7ff;
+    height: 150px;  
+    width: 100%;
+}
+#colore{
+    color: blue;
+}
+header p{
+    font-size: 12px;
+}
+.specifiche{
+    font-size: 9px;
+}
+.evidenziato{
+    background-color: yellow;
+}
+
