@@ -45,3 +45,7 @@ table td {
     padding: 5px;
     min-width: 250px;
 }
+footer p{
+    color:rgba(140,140,140);
+    font-size: 17px;
+}
